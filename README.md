@@ -1,6 +1,6 @@
 # Kidney-Ultrasound-Segmentation
 
-This project creates segments of kidney ultrasound images to detect fatty liver.
+This project creates segments of kidney ultrasound images to detect fatty liver using non deep learning based methods.
 
 # Code Contained
 
